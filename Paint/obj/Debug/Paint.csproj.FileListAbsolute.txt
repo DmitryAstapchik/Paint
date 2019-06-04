@@ -1,0 +1,54 @@
+E:\Дима учеба\программирование\WPF\Paint\Paint\bin\Debug\Paint.exe.config
+E:\Дима учеба\программирование\WPF\Paint\Paint\bin\Debug\Paint.exe
+E:\Дима учеба\программирование\WPF\Paint\Paint\bin\Debug\Paint.pdb
+E:\Дима учеба\программирование\WPF\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+E:\Дима учеба\программирование\WPF\Paint\Paint\obj\Debug\MainWindow.baml
+E:\Дима учеба\программирование\WPF\Paint\Paint\obj\Debug\MainWindow.g.cs
+E:\Дима учеба\программирование\WPF\Paint\Paint\obj\Debug\App.g.cs
+E:\Дима учеба\программирование\WPF\Paint\Paint\obj\Debug\Paint_MarkupCompile.cache
+E:\Дима учеба\программирование\WPF\Paint\Paint\obj\Debug\Paint.g.resources
+E:\Дима учеба\программирование\WPF\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+E:\Дима учеба\программирование\WPF\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+E:\Дима учеба\программирование\WPF\Paint\Paint\obj\Debug\Paint.exe
+E:\Дима учеба\программирование\WPF\Paint\Paint\obj\Debug\Paint.pdb
+E:\Дима учеба\программирование\WPF\Simple Paint\Paint\bin\Debug\Paint.exe.config
+E:\Дима учеба\программирование\WPF\Simple Paint\Paint\bin\Debug\Paint.exe
+E:\Дима учеба\программирование\WPF\Simple Paint\Paint\bin\Debug\Paint.pdb
+E:\Дима учеба\программирование\WPF\Simple Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+E:\Дима учеба\программирование\WPF\Simple Paint\Paint\obj\Debug\MainWindow.baml
+E:\Дима учеба\программирование\WPF\Simple Paint\Paint\obj\Debug\MainWindow.g.cs
+E:\Дима учеба\программирование\WPF\Simple Paint\Paint\obj\Debug\App.g.cs
+E:\Дима учеба\программирование\WPF\Simple Paint\Paint\obj\Debug\Paint_MarkupCompile.cache
+E:\Дима учеба\программирование\WPF\Simple Paint\Paint\obj\Debug\Paint.g.resources
+E:\Дима учеба\программирование\WPF\Simple Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+E:\Дима учеба\программирование\WPF\Simple Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+E:\Дима учеба\программирование\WPF\Simple Paint\Paint\obj\Debug\Paint.exe
+E:\Дима учеба\программирование\WPF\Simple Paint\Paint\obj\Debug\Paint.pdb
+E:\Studying\programming\WPF\Simple Paint\Paint\bin\Debug\Paint.exe.config
+E:\Studying\programming\WPF\Simple Paint\Paint\bin\Debug\Paint.exe
+E:\Studying\programming\WPF\Simple Paint\Paint\bin\Debug\Paint.pdb
+E:\Studying\programming\WPF\Simple Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+E:\Studying\programming\WPF\Simple Paint\Paint\obj\Debug\MainWindow.baml
+E:\Studying\programming\WPF\Simple Paint\Paint\obj\Debug\MainWindow.g.cs
+E:\Studying\programming\WPF\Simple Paint\Paint\obj\Debug\App.g.cs
+E:\Studying\programming\WPF\Simple Paint\Paint\obj\Debug\Paint_MarkupCompile.cache
+E:\Studying\programming\WPF\Simple Paint\Paint\obj\Debug\Paint.g.resources
+E:\Studying\programming\WPF\Simple Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+E:\Studying\programming\WPF\Simple Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+E:\Studying\programming\WPF\Simple Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+E:\Studying\programming\WPF\Simple Paint\Paint\obj\Debug\Paint.exe
+E:\Studying\programming\WPF\Simple Paint\Paint\obj\Debug\Paint.pdb
+E:\Studying\programming\WPF\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+E:\Studying\programming\WPF\Paint\Paint\obj\Debug\MainWindow.baml
+E:\Studying\programming\WPF\Paint\Paint\obj\Debug\MainWindow.g.cs
+E:\Studying\programming\WPF\Paint\Paint\obj\Debug\App.g.cs
+E:\Studying\programming\WPF\Paint\Paint\obj\Debug\Paint_MarkupCompile.cache
+E:\Studying\programming\WPF\Paint\Paint\obj\Debug\Paint.g.resources
+E:\Studying\programming\WPF\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+E:\Studying\programming\WPF\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+E:\Studying\programming\WPF\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+E:\Studying\programming\WPF\Paint\Paint\obj\Debug\Paint.exe
+E:\Studying\programming\WPF\Paint\Paint\obj\Debug\Paint.pdb
+E:\Studying\programming\WPF\Paint\Paint\bin\Debug\Paint.exe.config
+E:\Studying\programming\WPF\Paint\Paint\bin\Debug\Paint.exe
+E:\Studying\programming\WPF\Paint\Paint\bin\Debug\Paint.pdb
